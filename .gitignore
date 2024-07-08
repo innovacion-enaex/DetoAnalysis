@@ -1,3 +1,9 @@
+# Exlude Mac Files
+.DS_Store
+
+# Exclude compiled files
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
